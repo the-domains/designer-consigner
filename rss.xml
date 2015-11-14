@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Designer Consigner]]></title>
         <description><![CDATA[Designer Consigner]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/designer-consigner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 Nov 2015 08:13:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 Nov 2015 08:14:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/designer-consigner/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/designer-consigner/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">8d8f7529-9a4c-4917-80bb-74775acd6fc6</guid>
-            <pubDate>Sat, 14 Nov 2015 08:13:33 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2015 08:13:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
