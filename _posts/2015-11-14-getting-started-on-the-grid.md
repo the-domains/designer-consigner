@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Early intro to Designer Consigner
-datePublished: '2015-11-14T09:26:31.340Z'
-dateModified: '2015-11-14T09:26:21.443Z'
+datePublished: '2015-11-27T19:13:19.912Z'
+dateModified: '2015-11-14T09:26:31.340Z'
 title: About Us
 author: []
 sourcePath: _posts/2015-11-14-getting-started-on-the-grid.md
